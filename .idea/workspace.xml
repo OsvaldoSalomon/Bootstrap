@@ -2,19 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e79ebb2-485c-4f9a-af5e-0c2ee4c9ecab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Alignments&amp;Offsets.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Breakpoints.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GridSystem.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aria&amp;Data.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Breadcrumbs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NavbarSearchBox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Navigation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pagination.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrecodedNavbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/header-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Containers&amp;Rows.html" beforeDir="false" afterPath="$PROJECT_DIR$/Containers&amp;Rows.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Bootstrap1" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -27,7 +33,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Z4zYjsSqV5lJ5jmOghHxWUfUAd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -35,9 +43,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet.xml" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\osvaldo\Bootstrap\Bootstrap1\images" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1\images" />
     </key>
@@ -54,29 +65,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Alignments&amp;Offsets.html">
-    <configuration name="Alignments&amp;Offsets.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Alignments&amp;Offsets.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.Pagination.html">
+    <configuration name="Breadcrumbs.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Breadcrumbs.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Breakpoints.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Breakpoints.html" useBuiltInWebServerPort="true">
+    <configuration name="NavbarSearchBox.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/NavbarSearchBox.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Containers&amp;Rows.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Containers&amp;Rows.html" useBuiltInWebServerPort="true">
+    <configuration name="Navigation.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Navigation.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="GridSystem.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/GridSystem.html" useBuiltInWebServerPort="true">
+    <configuration name="Pagination.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Pagination.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/index.html" useBuiltInWebServerPort="true">
+    <configuration name="PrecodedNavbar.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/PrecodedNavbar.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.Alignments&amp;Offsets.html" />
-        <item itemvalue="JavaScript Debug.GridSystem.html" />
-        <item itemvalue="JavaScript Debug.Breakpoints.html" />
-        <item itemvalue="JavaScript Debug.Containers&amp;Rows.html" />
-        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.Pagination.html" />
+        <item itemvalue="JavaScript Debug.Breadcrumbs.html" />
+        <item itemvalue="JavaScript Debug.NavbarSearchBox.html" />
+        <item itemvalue="JavaScript Debug.Navigation.html" />
+        <item itemvalue="JavaScript Debug.PrecodedNavbar.html" />
       </list>
     </recent_temporary>
   </component>
@@ -93,8 +104,21 @@
       <workItem from="1584113205404" duration="1712000" />
       <workItem from="1584645050457" duration="3005000" />
       <workItem from="1584696542805" duration="1836000" />
-      <workItem from="1584706230938" duration="8918000" />
+      <workItem from="1584706230938" duration="9313000" />
+      <workItem from="1584723959405" duration="596000" />
+      <workItem from="1584789269494" duration="2386000" />
+      <workItem from="1584797919024" duration="2985000" />
+      <workItem from="1584802299889" duration="6542000" />
+      <workItem from="1584874952605" duration="1232000" />
     </task>
+    <task id="LOCAL-00001" summary="Added more html files, they have different functions">
+      <created>1584720006197</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584720006197</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,10 +129,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added more html files, they have different functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added more html files, they have different functions" />
   </component>
 </project>
