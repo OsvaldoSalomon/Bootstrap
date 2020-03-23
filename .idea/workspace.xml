@@ -2,16 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e79ebb2-485c-4f9a-af5e-0c2ee4c9ecab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aria&amp;Data.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Breadcrumbs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NavbarSearchBox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Navigation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pagination.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrecodedNavbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/header-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InlineTags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListGroupsJSBehaviour.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Navigation/AnimatedScroll.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Typography/HeadlineTags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Typography/Paragraphs&amp;Blockquotes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Typography/TextColors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/teaparty.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alignments&amp;Offsets.html" beforeDir="false" afterPath="$PROJECT_DIR$/Navigation/Alignments&amp;Offsets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aria&amp;Data.html" beforeDir="false" afterPath="$PROJECT_DIR$/Navigation/Aria&amp;Data.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Breadcrumbs.html" beforeDir="false" afterPath="$PROJECT_DIR$/Navigation/Breadcrumbs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Breakpoints.html" beforeDir="false" afterPath="$PROJECT_DIR$/Navigation/Breakpoints.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Containers&amp;Rows.html" beforeDir="false" afterPath="$PROJECT_DIR$/Navigation/Containers&amp;Rows.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GridSystem.html" beforeDir="false" afterPath="$PROJECT_DIR$/Navigation/GridSystem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NavbarSearchBox.html" beforeDir="false" afterPath="$PROJECT_DIR$/Navigation/NavbarSearchBox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/Navigation/Navigation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pagination.html" beforeDir="false" afterPath="$PROJECT_DIR$/Navigation/Pagination.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrecodedNavbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/Navigation/PrecodedNavbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Navigation/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,11 +56,13 @@
     <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet.xml" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\osvaldo\Bootstrap\Bootstrap1\images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\osvaldo\Bootstrap\Bootstrap1" />
+      <recent name="E:\osvaldo\Bootstrap\Bootstrap1\images" />
+      <recent name="E:\osvaldo\Bootstrap\Bootstrap1\Navigation" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -65,29 +77,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Pagination.html">
-    <configuration name="Breadcrumbs.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Breadcrumbs.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.ListGroupsJSBehaviour.html">
+    <configuration name="InlineTags.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/InlineTags.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="NavbarSearchBox.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/NavbarSearchBox.html" useBuiltInWebServerPort="true">
+    <configuration name="ListGroupsJSBehaviour.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/ListGroupsJSBehaviour.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Navigation.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Navigation.html" useBuiltInWebServerPort="true">
+    <configuration name="Lists.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Lists.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Pagination.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Pagination.html" useBuiltInWebServerPort="true">
+    <configuration name="Paragraphs&amp;Blockquotes.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Typography/Paragraphs&amp;Blockquotes.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="PrecodedNavbar.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/PrecodedNavbar.html" useBuiltInWebServerPort="true">
+    <configuration name="TextColors.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Typography/TextColors.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.Pagination.html" />
-        <item itemvalue="JavaScript Debug.Breadcrumbs.html" />
-        <item itemvalue="JavaScript Debug.NavbarSearchBox.html" />
-        <item itemvalue="JavaScript Debug.Navigation.html" />
-        <item itemvalue="JavaScript Debug.PrecodedNavbar.html" />
+        <item itemvalue="JavaScript Debug.ListGroupsJSBehaviour.html" />
+        <item itemvalue="JavaScript Debug.Lists.html" />
+        <item itemvalue="JavaScript Debug.InlineTags.html" />
+        <item itemvalue="JavaScript Debug.Paragraphs&amp;Blockquotes.html" />
+        <item itemvalue="JavaScript Debug.TextColors.html" />
       </list>
     </recent_temporary>
   </component>
@@ -110,6 +122,11 @@
       <workItem from="1584797919024" duration="2985000" />
       <workItem from="1584802299889" duration="6542000" />
       <workItem from="1584874952605" duration="1232000" />
+      <workItem from="1584882487858" duration="8765000" />
+      <workItem from="1584914567104" duration="1023000" />
+      <workItem from="1584957228260" duration="1193000" />
+      <workItem from="1584962051953" duration="699000" />
+      <workItem from="1584968026196" duration="1596000" />
     </task>
     <task id="LOCAL-00001" summary="Added more html files, they have different functions">
       <created>1584720006197</created>
@@ -118,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584720006197</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added more html files, most of them contain the same information, it's the bottom part that changes">
+      <created>1584882544732</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584882544732</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +163,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added more html files, they have different functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added more html files, they have different functions" />
+    <MESSAGE value="Added more html files, most of them contain the same information, it's the bottom part that changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added more html files, most of them contain the same information, it's the bottom part that changes" />
   </component>
 </project>
