@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e79ebb2-485c-4f9a-af5e-0c2ee4c9ecab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FixedElements&amp;JustifiedText.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResponsiveFloats.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/0408-styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/queen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutlinedButtons.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColorButtons.html" beforeDir="false" afterPath="$PROJECT_DIR$/ColorButtons.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +40,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\osvaldo\Bootstrap\Bootstrap1\Typography" />
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1" />
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1\images" />
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1\Navigation" />
@@ -62,11 +61,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.FixedElements&amp;JustifiedText.html">
-    <configuration name="FixedElements&amp;JustifiedText.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Typography/FixedElements&amp;JustifiedText.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.ColorButtons.html">
+    <configuration name="ColorButtons.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/ColorButtons.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="InlineTags.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Typography/InlineTags.html" useBuiltInWebServerPort="true">
+    <configuration name="FixedElements&amp;JustifiedText.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Typography/FixedElements&amp;JustifiedText.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="ListGroupsJSBehaviour.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Typography/ListGroupsJSBehaviour.html" useBuiltInWebServerPort="true">
@@ -80,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.ColorButtons.html" />
         <item itemvalue="JavaScript Debug.FixedElements&amp;JustifiedText.html" />
         <item itemvalue="JavaScript Debug.ResponsiveFloats.html" />
         <item itemvalue="JavaScript Debug.ListGroupsJSBehaviour.html" />
         <item itemvalue="JavaScript Debug.Lists.html" />
-        <item itemvalue="JavaScript Debug.InlineTags.html" />
       </list>
     </recent_temporary>
   </component>
@@ -112,7 +111,7 @@
       <workItem from="1584957228260" duration="1193000" />
       <workItem from="1584962051953" duration="699000" />
       <workItem from="1584968026196" duration="1645000" />
-      <workItem from="1584972237229" duration="4530000" />
+      <workItem from="1584972237229" duration="6884000" />
     </task>
     <task id="LOCAL-00001" summary="Added more html files, they have different functions">
       <created>1584720006197</created>
@@ -142,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584973659310</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finished the directory with Typography and started the Buttons directory">
+      <created>1584978309117</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584978309117</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +171,7 @@
     <MESSAGE value="Added more html files, they have different functions" />
     <MESSAGE value="Added more html files, most of them contain the same information, it's the bottom part that changes" />
     <MESSAGE value=" *** This one is probably the best I've done so far" />
-    <option name="LAST_COMMIT_MESSAGE" value=" *** This one is probably the best I've done so far" />
+    <MESSAGE value="Finished the directory with Typography and started the Buttons directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished the directory with Typography and started the Buttons directory" />
   </component>
 </project>
