@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e79ebb2-485c-4f9a-af5e-0c2ee4c9ecab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/OutlinedButtons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alerts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Badges.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonGroups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonGroupsWDropDownMenu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonToolbars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonsWOtherTags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Radio&amp;CheckboxButtons.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ColorButtons.html" beforeDir="false" afterPath="$PROJECT_DIR$/ColorButtons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutlinedButtons.html" beforeDir="false" afterPath="$PROJECT_DIR$/OutlinedButtons.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,29 +67,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.ColorButtons.html">
-    <configuration name="ColorButtons.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/ColorButtons.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.Alerts.html">
+    <configuration name="Alerts.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Alerts.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="FixedElements&amp;JustifiedText.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Typography/FixedElements&amp;JustifiedText.html" useBuiltInWebServerPort="true">
+    <configuration name="ButtonGroupsWDropDownMenu.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/ButtonGroupsWDropDownMenu.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="ListGroupsJSBehaviour.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Typography/ListGroupsJSBehaviour.html" useBuiltInWebServerPort="true">
+    <configuration name="ButtonGroups.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/ButtonGroups.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Lists.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Typography/Lists.html" useBuiltInWebServerPort="true">
+    <configuration name="ButtonToolbars.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/ButtonToolbars.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="ResponsiveFloats.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Typography/ResponsiveFloats.html" useBuiltInWebServerPort="true">
+    <configuration name="Radio&amp;CheckboxButtons.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Radio&amp;CheckboxButtons.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.ColorButtons.html" />
-        <item itemvalue="JavaScript Debug.FixedElements&amp;JustifiedText.html" />
-        <item itemvalue="JavaScript Debug.ResponsiveFloats.html" />
-        <item itemvalue="JavaScript Debug.ListGroupsJSBehaviour.html" />
-        <item itemvalue="JavaScript Debug.Lists.html" />
+        <item itemvalue="JavaScript Debug.Alerts.html" />
+        <item itemvalue="JavaScript Debug.ButtonToolbars.html" />
+        <item itemvalue="JavaScript Debug.Radio&amp;CheckboxButtons.html" />
+        <item itemvalue="JavaScript Debug.ButtonGroupsWDropDownMenu.html" />
+        <item itemvalue="JavaScript Debug.ButtonGroups.html" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +117,9 @@
       <workItem from="1584957228260" duration="1193000" />
       <workItem from="1584962051953" duration="699000" />
       <workItem from="1584968026196" duration="1645000" />
-      <workItem from="1584972237229" duration="6884000" />
+      <workItem from="1584972237229" duration="6964000" />
+      <workItem from="1584983798333" duration="19000" />
+      <workItem from="1584988050152" duration="5745000" />
     </task>
     <task id="LOCAL-00001" summary="Added more html files, they have different functions">
       <created>1584720006197</created>
@@ -148,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584978309117</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Started in the Buttons directory, done 3 so far">
+      <created>1584982902155</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1584982902155</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +187,7 @@
     <MESSAGE value="Added more html files, most of them contain the same information, it's the bottom part that changes" />
     <MESSAGE value=" *** This one is probably the best I've done so far" />
     <MESSAGE value="Finished the directory with Typography and started the Buttons directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished the directory with Typography and started the Buttons directory" />
+    <MESSAGE value="Started in the Buttons directory, done 3 so far" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started in the Buttons directory, done 3 so far" />
   </component>
 </project>
