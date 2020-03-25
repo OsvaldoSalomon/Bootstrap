@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e79ebb2-485c-4f9a-af5e-0c2ee4c9ecab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Borders.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardColumns.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardGroups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cards.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardsColors&amp;Shadows.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FontAwesome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MediaObjects.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tables.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Alice-dodo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Alice-gryphon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Alice-hatter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Alice-white-rabbit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/rabbit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/stars.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2e79ebb2-485c-4f9a-af5e-0c2ee4c9ecab" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +39,11 @@
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\osvaldo\Bootstrap\Bootstrap1\ImagesTables&amp;Cards" />
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1\Buttons" />
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1\Typography" />
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1" />
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1\images" />
-      <recent name="E:\osvaldo\Bootstrap\Bootstrap1\Navigation" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -132,7 +116,7 @@
       <workItem from="1585129454425" duration="2332000" />
       <workItem from="1585139544568" duration="3517000" />
       <workItem from="1585148720015" duration="271000" />
-      <workItem from="1585149019975" duration="10353000" />
+      <workItem from="1585149019975" duration="10660000" />
     </task>
     <task id="LOCAL-00001" summary="Added more html files, they have different functions">
       <created>1584720006197</created>
@@ -190,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585130526585</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Finished the Images Tables and Cards directory">
+      <created>1585161011528</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1585161011528</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +208,7 @@
     <MESSAGE value="Started in the Buttons directory, done 3 so far" />
     <MESSAGE value="Created more files, almost done with the buttons directory" />
     <MESSAGE value="Finished with the Buttons directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished with the Buttons directory" />
+    <MESSAGE value="Finished the Images Tables and Cards directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished the Images Tables and Cards directory" />
   </component>
 </project>
