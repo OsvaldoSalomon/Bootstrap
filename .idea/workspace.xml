@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e79ebb2-485c-4f9a-af5e-0c2ee4c9ecab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ImageFigures.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jabberwocky.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Borders.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CardColumns.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CardGroups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cards.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CardsColors&amp;Shadows.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FontAwesome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MediaObjects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Alice-dodo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Alice-gryphon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Alice-hatter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Alice-white-rabbit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rabbit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/stars.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,15 +51,15 @@
     <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet.xml" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\osvaldo\Bootstrap\Bootstrap1\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1\Buttons" />
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1\Typography" />
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1" />
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1\images" />
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1\Navigation" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\osvaldo\Bootstrap\Bootstrap1\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -63,29 +74,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.ImageFigures.html">
-    <configuration name="Alerts.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Buttons/Alerts.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.MediaObjects.html">
+    <configuration name="Borders.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/ImagesTables&amp;Cards/Borders.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Badges.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Buttons/Badges.html" useBuiltInWebServerPort="true">
+    <configuration name="CardColumns.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/ImagesTables&amp;Cards/CardColumns.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="ButtonToolbars.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Buttons/ButtonToolbars.html" useBuiltInWebServerPort="true">
+    <configuration name="CardGroups.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/ImagesTables&amp;Cards/CardGroups.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="ImageFigures.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/ImageFigures.html" useBuiltInWebServerPort="true">
+    <configuration name="MediaObjects.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/ImagesTables&amp;Cards/MediaObjects.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Images.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Images.html" useBuiltInWebServerPort="true">
+    <configuration name="Tables.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/ImagesTables&amp;Cards/Tables.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.ImageFigures.html" />
-        <item itemvalue="JavaScript Debug.Images.html" />
-        <item itemvalue="JavaScript Debug.Badges.html" />
-        <item itemvalue="JavaScript Debug.Alerts.html" />
-        <item itemvalue="JavaScript Debug.ButtonToolbars.html" />
+        <item itemvalue="JavaScript Debug.MediaObjects.html" />
+        <item itemvalue="JavaScript Debug.Borders.html" />
+        <item itemvalue="JavaScript Debug.Tables.html" />
+        <item itemvalue="JavaScript Debug.CardColumns.html" />
+        <item itemvalue="JavaScript Debug.CardGroups.html" />
       </list>
     </recent_temporary>
   </component>
@@ -120,6 +131,8 @@
       <workItem from="1585064981622" duration="1758000" />
       <workItem from="1585129454425" duration="2332000" />
       <workItem from="1585139544568" duration="3517000" />
+      <workItem from="1585148720015" duration="271000" />
+      <workItem from="1585149019975" duration="10353000" />
     </task>
     <task id="LOCAL-00001" summary="Added more html files, they have different functions">
       <created>1584720006197</created>
