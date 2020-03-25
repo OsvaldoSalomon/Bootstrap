@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e79ebb2-485c-4f9a-af5e-0c2ee4c9ecab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ImageFigures.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jabberwocky.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Badges.html" beforeDir="false" afterPath="$PROJECT_DIR$/Badges.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +41,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\osvaldo\Bootstrap\Bootstrap1\Buttons" />
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1\Typography" />
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1" />
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1\images" />
@@ -60,29 +63,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Badges.html">
+  <component name="RunManager" selected="JavaScript Debug.ImageFigures.html">
     <configuration name="Alerts.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Buttons/Alerts.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="Badges.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Buttons/Badges.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="ButtonGroupsWDropDownMenu.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Buttons/ButtonGroupsWDropDownMenu.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
     <configuration name="ButtonToolbars.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Buttons/ButtonToolbars.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Radio&amp;CheckboxButtons.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Buttons/Radio&amp;CheckboxButtons.html" useBuiltInWebServerPort="true">
+    <configuration name="ImageFigures.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/ImageFigures.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Images.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Images.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.ImageFigures.html" />
+        <item itemvalue="JavaScript Debug.Images.html" />
         <item itemvalue="JavaScript Debug.Badges.html" />
         <item itemvalue="JavaScript Debug.Alerts.html" />
         <item itemvalue="JavaScript Debug.ButtonToolbars.html" />
-        <item itemvalue="JavaScript Debug.Radio&amp;CheckboxButtons.html" />
-        <item itemvalue="JavaScript Debug.ButtonGroupsWDropDownMenu.html" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +118,8 @@
       <workItem from="1584988050152" duration="5797000" />
       <workItem from="1585042846063" duration="618000" />
       <workItem from="1585064981622" duration="1758000" />
-      <workItem from="1585129454425" duration="784000" />
+      <workItem from="1585129454425" duration="2332000" />
+      <workItem from="1585139544568" duration="3517000" />
     </task>
     <task id="LOCAL-00001" summary="Added more html files, they have different functions">
       <created>1584720006197</created>
@@ -166,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584993867897</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Finished with the Buttons directory">
+      <created>1585130526585</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585130526585</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +203,7 @@
     <MESSAGE value="Finished the directory with Typography and started the Buttons directory" />
     <MESSAGE value="Started in the Buttons directory, done 3 so far" />
     <MESSAGE value="Created more files, almost done with the buttons directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created more files, almost done with the buttons directory" />
+    <MESSAGE value="Finished with the Buttons directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished with the Buttons directory" />
   </component>
 </project>
