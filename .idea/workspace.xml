@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e79ebb2-485c-4f9a-af5e-0c2ee4c9ecab" name="Default Changelist" comment="" />
+    <list default="true" id="2e79ebb2-485c-4f9a-af5e-0c2ee4c9ecab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/InlineForms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InputGroups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-ColumnForms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RadiosCheckboxes&amp;SelectMenus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StylingForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ValidationClases.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cards.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/duchess.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hatter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hatter2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/queen2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rabbit.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/CheckForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FontAwesome.html" beforeDir="false" afterPath="$PROJECT_DIR$/HtmlSetUpForm.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +56,11 @@
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\osvaldo\Bootstrap\Bootstrap1\images" />
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1\ImagesTables&amp;Cards" />
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1\Buttons" />
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1\Typography" />
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1" />
-      <recent name="E:\osvaldo\Bootstrap\Bootstrap1\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -58,29 +75,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.MediaObjects.html">
-    <configuration name="Borders.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/ImagesTables&amp;Cards/Borders.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.RadiosCheckboxes&amp;SelectMenus.html">
+    <configuration name="InlineForms.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Forms/InlineForms.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="CardColumns.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/ImagesTables&amp;Cards/CardColumns.html" useBuiltInWebServerPort="true">
+    <configuration name="InputGroups.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Forms/InputGroups.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="CardGroups.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/ImagesTables&amp;Cards/CardGroups.html" useBuiltInWebServerPort="true">
+    <configuration name="Multi-ColumnForms.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Forms/Multi-ColumnForms.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="MediaObjects.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/ImagesTables&amp;Cards/MediaObjects.html" useBuiltInWebServerPort="true">
+    <configuration name="RadiosCheckboxes&amp;SelectMenus.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Forms/RadiosCheckboxes&amp;SelectMenus.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Tables.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/ImagesTables&amp;Cards/Tables.html" useBuiltInWebServerPort="true">
+    <configuration name="ValidationClases.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Forms/ValidationClases.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.MediaObjects.html" />
-        <item itemvalue="JavaScript Debug.Borders.html" />
-        <item itemvalue="JavaScript Debug.Tables.html" />
-        <item itemvalue="JavaScript Debug.CardColumns.html" />
-        <item itemvalue="JavaScript Debug.CardGroups.html" />
+        <item itemvalue="JavaScript Debug.RadiosCheckboxes&amp;SelectMenus.html" />
+        <item itemvalue="JavaScript Debug.InputGroups.html" />
+        <item itemvalue="JavaScript Debug.ValidationClases.html" />
+        <item itemvalue="JavaScript Debug.Multi-ColumnForms.html" />
+        <item itemvalue="JavaScript Debug.InlineForms.html" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +133,10 @@
       <workItem from="1585129454425" duration="2332000" />
       <workItem from="1585139544568" duration="3517000" />
       <workItem from="1585148720015" duration="271000" />
-      <workItem from="1585149019975" duration="10660000" />
+      <workItem from="1585149019975" duration="12666000" />
+      <workItem from="1585218000556" duration="1198000" />
+      <workItem from="1585238875914" duration="3058000" />
+      <workItem from="1585246696587" duration="7010000" />
     </task>
     <task id="LOCAL-00001" summary="Added more html files, they have different functions">
       <created>1584720006197</created>
