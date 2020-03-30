@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e79ebb2-485c-4f9a-af5e-0c2ee4c9ecab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Accordian.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Carousels.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collapse.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jumbotron.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alicesmall.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/elephant-jumbo-gray.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Popovers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scrollspy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tooltips.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,15 +41,15 @@
     <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet.xml" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\osvaldo\Bootstrap\Bootstrap1\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\osvaldo\Bootstrap\Bootstrap1\OtherComponents" />
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1\Forms" />
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1\images" />
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1\ImagesTables&amp;Cards" />
       <recent name="E:\osvaldo\Bootstrap\Bootstrap1\Buttons" />
-      <recent name="E:\osvaldo\Bootstrap\Bootstrap1\Typography" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\osvaldo\Bootstrap\Bootstrap1\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -70,29 +64,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Accordion.html">
+  <component name="RunManager" selected="JavaScript Debug.Scrollspy.html">
     <configuration name="Accordion.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/OtherComponents/Accordion.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Carousels.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/OtherComponents/Carousels.html" useBuiltInWebServerPort="true">
+    <configuration name="Modal.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/JavaScript&amp;Bootstrap/Modal.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Collapse.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/OtherComponents/Collapse.html" useBuiltInWebServerPort="true">
+    <configuration name="Popovers.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/JavaScript&amp;Bootstrap/Popovers.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Jumbotron.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/OtherComponents/Jumbotron.html" useBuiltInWebServerPort="true">
+    <configuration name="Scrollspy.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/JavaScript&amp;Bootstrap/Scrollspy.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="RadiosCheckboxes&amp;SelectMenus.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/Forms/RadiosCheckboxes&amp;SelectMenus.html" useBuiltInWebServerPort="true">
+    <configuration name="Tooltips.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Bootstrap1/JavaScript&amp;Bootstrap/Tooltips.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Scrollspy.html" />
+        <item itemvalue="JavaScript Debug.Popovers.html" />
+        <item itemvalue="JavaScript Debug.Modal.html" />
+        <item itemvalue="JavaScript Debug.Tooltips.html" />
         <item itemvalue="JavaScript Debug.Accordion.html" />
-        <item itemvalue="JavaScript Debug.Collapse.html" />
-        <item itemvalue="JavaScript Debug.Carousels.html" />
-        <item itemvalue="JavaScript Debug.Jumbotron.html" />
-        <item itemvalue="JavaScript Debug.RadiosCheckboxes&amp;SelectMenus.html" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +130,10 @@
       <workItem from="1585322250501" duration="7385000" />
       <workItem from="1585394531985" duration="628000" />
       <workItem from="1585479276153" duration="1473000" />
-      <workItem from="1585498909177" duration="1473000" />
+      <workItem from="1585498909177" duration="2991000" />
+      <workItem from="1585561143547" duration="999000" />
+      <workItem from="1585571737132" duration="7143000" />
+      <workItem from="1585588201965" duration="4697000" />
     </task>
     <task id="LOCAL-00001" summary="Added more html files, they have different functions">
       <created>1584720006197</created>
@@ -208,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585253791298</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Finished the Other Components directory">
+      <created>1585500656122</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1585500656122</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,6 +241,7 @@
     <MESSAGE value="Finished with the Buttons directory" />
     <MESSAGE value="Finished the Images Tables and Cards directory" />
     <MESSAGE value="Finished the Forms directory and the 8 html files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished the Forms directory and the 8 html files" />
+    <MESSAGE value="Finished the Other Components directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished the Other Components directory" />
   </component>
 </project>
